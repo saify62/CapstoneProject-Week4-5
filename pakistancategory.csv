@@ -1,0 +1,51 @@
+,id,name,categories,lat,lng,neighborhood,distance [m],postal code,price
+0,52d9009c11d2079ba506dca1,The East End,Pakistani Restaurant,24.830433,67.03843,"CC-2, Block 8, Clifton",5915,75600,4500
+1,4b5fdbf6f964a520f9ce29e3,Bar-B-Q Tonight,Pakistani Restaurant,24.8162007,67.0211808,"Com 5/1, Sh-e-Firdousi, Boat Basin, Clifton Block-5 (Khayaban-e-Saadi, opp. Bilawal Chowrangi)",5868,75600,5000
+2,4b5d5cc1f964a520d85a29e3,Shaikh Abdul Ghaffar Kabab House,Pakistani Restaurant,24.87673769,67.06596852,Off Shaheed-e-Millat Rd (Delhi Mercantile Housing Society),7821,75400,3500
+3,4e189aa56284ea7246fa36c6,The Pakistani,Indian Restaurant,24.84642899,67.02630315,Club Road,3961,75530,4500
+4,4cb026cd562d224b511a1488,Mirchili,Pakistani Restaurant,24.79919334,67.04630865,"Shop 1&2, 15-C, Badar Commercial Area, Phase 5, DHA (Khayaban-e-Badar)",8892,75500,5000
+5,4c1feb4cfec3b713d9c2bec6,Zahid Nihari,Pakistani Restaurant,24.86845517,67.05780614,Tariq Road,6848,75401,4500
+6,4b8b3a6cf964a520919832e3,Boat Basin,Street Food Gathering,24.82682077,67.02577417,Kh-e-Saadi (Kh-e-Roomi),5209,75500,5000
+7,55b28066498e3047846f7623,KhanJi,Pakistani Restaurant,24.80739534,67.03476698,"F-44/2, Block-4 Scheme-5 Clifton, Karachi, Pakistan",7453,75600,4000
+8,572e18be498e1f3061765e99,Kolachi,Pakistani Restaurant,24.82363829,67.03555838,Ocean Mall,6163,75600,3500
+9,4dc2e160ae60966750b50421,Tandoori Hut,Pakistani Restaurant,24.82599914,67.02555454,Main Boat Basin,5262,75600,4500
+10,4baa4c67f964a520685c3ae3,Waheed Kebab House,Pakistani Restaurant,24.85674048,67.01659162,Burns Road,2676,75500,2000
+11,4da3516f7aee54819699e7fe,Sajjad Restaurant,Pakistani Restaurant,24.7842366,67.07375951,DHA Phase 8,11988,75500,5500
+12,4bfd4882bf6576b00a02adb8,Salt  n Pepper Village,Pakistani Restaurant,24.77828209,67.05418921,Beach Ave,11230,75500,6000
+13,4c4357152d3ec9b6b75d2dae,Mateen Foods,Pakistani Restaurant,24.94954461,67.04988867,North Nazimabad (Near Skahi Hassan),11540,74600,2500
+14,4c76ec83411c9c74dbdc14e2,Rangoli,Pakistani Restaurant,24.88748431,67.08959984,"Arena, Karsaz Rd",10434,75350,4000
+15,4e1c712362e147e54f5252e1,Ghaffar Kabab House,BBQ Joint,24.84254225,66.98957672,"Port Grand, Native Jetty Bridge (M. T. Khan Rd)",2053,74000,6000
+16,54736832498ef869314448a1,Malik Nihari,Pakistani Restaurant,24.87990397,67.07158359,Alamgir Road,8455,75550,4500
+17,4bd16f6ab221c9b64f83d5d0,Mazedar Foods,Pakistani Restaurant,24.94431137,67.0737805,F.B.Area block 18,12521,75950,2500
+18,4f91458fe4b04fef006591d0,Madni Biryani House,Pakistani Restaurant,24.95509025,67.06701888,"Sector 15-A/5, Bufferzone, (North Nazimbad Town)",13018,75850,2000
+19,4d161e0ccc216ea8d58567d3,Chandni,Pakistani Restaurant,24.84746814,67.02548828,"Pearl Continental, Club Rd",3840,75520,15000
+20,4bb38eb0a32876b04ce001fe,Shaheen Shanwari,Pakistani Restaurant,24.89776309,67.11758378,"Gulistan-e-Johar, Rashid Minhas Road",13471,75950,3000
+21,4ce177c2ffcf3704ad002682,Lal Qila,Pakistani Restaurant,24.87233577,67.09073618,Shahrah-e-Faisal,10202,75350,4300
+22,55300ddc498e4b742848f584,Kababjees,Pakistani Restaurant,24.87283576,67.05785533,Allama Iqbal Road,6929,75400,2100
+23,5a3e12ba6adbf5122c28876d,Chaaye Khana,Pakistani Restaurant,24.79333595,67.06212267,1C Bukhari Commercial Lane 13 Opposite Khayaban-e-Shujaat DHA Phase 6,10442,75500,4500
+24,4b7c4a89f964a5201e8a2fe3,Nihari Inn,Pakistani Restaurant,24.82670878,67.02610427,"Boat Basin, Kh-e-Roomi",5241,75600,4600
+25,4d3c5b33457cb60cf1dbeea4,Lasania,Pakistani Restaurant,24.90727165,67.11023318,"D1, Rashid Minhas Rd",13143,75950,3500
+26,51360640e4b09d14a7c3a926,Sky BBQ,Pakistani Restaurant,24.85249848,67.03220852,Avari Towers,4316,75520,2600
+27,4c0eec0315c2ef3bd4541b08,Usmania Restaurant,Pakistani Restaurant,24.90438584,67.07748848,"University Rd, Block-13A, Gulshan-e-Iqbal",10026,75300,2000
+28,4e30d64e45dd6a9c6aacddb7,Al Bustan Restaurant,Pakistani Restaurant,24.846723,67.026029,Club Road (Dr. Ziauddin Ahmed Rd.),3923,75530,4600
+29,4bd6b18629eb9c747e6d95e1,Karachi Foods,Pakistani Restaurant,24.8604876,67.06421723,"Nursery, Shahrah-e-Faisal",7445,75350,4200
+30,54d1e3a4498e26dc9e820cc3,Khalifa Idrees Nihari,Pakistani Restaurant,24.86054452,67.01357465,Aslam Road,2330,75510,1800
+31,4b88a627f964a520b40632e3,Biryani Centre,Pakistani Restaurant,24.80774275,67.03727691,"26th St, Tauheed Commercial Area (Kh-e-Shamsheer)",7578,75500,5000
+32,4e2eee46d4c058fdbeee6a70,Special Salateen Restaurant,Pakistani Restaurant,24.81009816,67.0175946,"Block 2, Clifton",6289,75600,4500
+33,586013e48f0be461c0b8fb42,Zaoq Resturant,Pakistani Restaurant,24.80214,67.029655,2nd Floor Dolmen City Mall Clifton,7650,75600,4300
+34,4d4afd737d36f04d7e4221e5,Daily Dubai Restaurant,Pakistani Restaurant,24.79718516,67.04440003,Badar Commercial St 10 (Off 26th Street),8947,75500,4600
+35,4c1caaac63750f47bfe1b667,Student Biryani,Pakistani Restaurant,24.88143839,67.06638234,Bahadurabad Chowrangi (Alamgir St),7995,75300,3680
+36,4db13be44b22ba776d7e216e,Student Biryani,Pakistani Restaurant,24.79846147,67.04539776,Badar Comm. Area (10th Badar Comm. St),8897,75500,4600
+37,5a30f6b5851de51358a10e1c,Sultan The Royal Eatery,Pakistani Restaurant,24.868716,67.078231,Tipu Sultan Road,8902,75400,4000
+38,4dafdf06f7b149e03f3d3b5a,Suzie Wong,Asian Restaurant,24.84650492,67.03111964,"Marriott Hotel, Abdullah Haroon Rd",4407,75520,15000
+39,50c44ea6e4b0781921dd9eae,Student Biryani,Pakistani Restaurant,24.90710799,67.07150795,University Rd,9659,75270,1500
+40,4d1f6a9e8629224baaf20a87,Savor,Pakistani Restaurant,24.785754,67.091148,"31/1 Zulfiqar Street 1, D.H.A. Phase 8 Zone A Phase 8",13172,75500,4500
+41,5499a6d8498e8b6d491aa47f,the white biryani,Pakistani Restaurant,24.80908679,67.06960548,"16 C 3rd St, D.H.A Phase 6 Rahat Commercial Area",9859,75500,4800
+42,4d445f3e4e5d370497b0ea93,Super Salateen Hotel,Pakistani Restaurant,24.90100743,67.11169938,"Gulshan-e-Jamal, (Near Dalmia)",13025,75260,1600
+43,4fd387d6e4b09c51fe507c45,Darbar Haleem & Biryani,Pakistani Restaurant,24.92808195,67.09590884,Near Disco Bakery,13004,75290,1500
+44,4e3e911ca809ba757c18ad4f,Student Biryani,Pakistani Restaurant,24.9288647,67.09592047,Off Abul Hasan Isphahani Rd,13055,75270,1600
+45,54b975d5498eb31c0c7d8d31,Shandar Shinwari BarBQ & Restaurant,Pakistani Restaurant,24.90084655,67.11278157,"Gulshan-e-Jamal Rd, Block C Gulshan-e-Iqbal",13122,75260,1500
+46,4c3804c0a52cb713a6495f26,Ideal Restaurant,Pakistani Restaurant,24.87576433,67.0882974,Mohammad Ali Society,10013,75350,4500
+47,56508b44498e0883ba0183db,Kebabistan,Pakistani Restaurant,24.93122447,67.10048772,"Opp. KFC. near Disco Bakery. Block 4, Gulshan-e-Iqbal",13583,75290,2000
+48,5904f60c26659b6a847ff7cb,Chai Mahal,Pakistani Restaurant,24.928437,67.114411,"Block 1, Gulistan-eJauhar",14593,75290,1590
+49,59ea29e66fa81f72c84fa4dd,Ridan,Middle Eastern Restaurant,24.80948,67.03412,Khalid bin Waleed Rd.,7229,75100,2600
